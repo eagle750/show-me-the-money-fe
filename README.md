@@ -44,7 +44,7 @@
 3. Run `npm run dev` to start the server.
 4. The app runs on `localhost:3000`.
 
-The app is deployed at - 
+The app is deployed at - https://yashwant-kumar.netlify.app/
 
 **Error Handling:**
 - Wrapped network calls in try/catch blocks.
